@@ -1,0 +1,35 @@
+
+/* syle.css */
+
+html,
+body { /* add page background and font style/size/color */
+    margin: 0; /* removes margin by default */
+
+
+
+}
+img { display: block; } /* images take up their own line now */
+
+
+
+/* ===== style your elements ===== */
+
+/* set display of body to flex */
+/* play around with flex properties to create a cool page layout */
+
+/* add background-color tastefully */
+/* add a linear gradient as a background somewhere */
+
+/* add text shadow somewhere */
+/* add box shadow somewhere */
+
+/* center text in paragraph */
+/* set paragraph width to 0.62× the width of the page */
+/* center your paragraph with margins */
+/* give background-color and padding to your paragraph */
+
+/* center your img with margins */
+/* add border-radius to your image */
+
+/* make "pumpkin.svg" inline with same height as your font */
+
